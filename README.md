@@ -64,17 +64,4 @@ Restaurant_POS/
 ## 🧑‍💻 Author
 
 **Gourab Pal**
-[LinkedIn](https://www.linkedin.com/in/gourab-pal-828078248/) | [GitHub](https://github.com/gourabpal04)
-
----
-
-## 📃 License
-
-This project is licensed under the MIT License.
-
-```
-
----
-
-Let me know if you'd like to include screenshots, deployment steps, or a hosted demo link!
-```
+[LinkedIn](https://www.linkedin.com/in/gourab-pal-828078248/) 
